@@ -15,8 +15,8 @@ def check_password(username, password):
 
 
 # دریافت یوزرنیم و پسورد از کاربر`
-username = input("enter username: ")
-password = input("enter password roseviolet: ")
+# username = input("enter username: ")
+# password = input("enter password roseviolet: ")
 
 if True:
 # if check_password(username, password):
